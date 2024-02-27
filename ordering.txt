@@ -1,0 +1,26 @@
+23 total scenes - series of 4 groups of choices
+
+
+intro(starting point)
+			choice structure
+				
+				
+		
+q1 = where to go @ start point start with 2 options and they have one common option
+
+where to go q = scenes
+
+A) castle					
+B) old hags hut
+C)wild forest
+D)fortress of doom
+
+
+
+
+		
+						
+
+	
+	
+	

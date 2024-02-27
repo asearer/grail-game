@@ -1,0 +1,33 @@
+text based adventure based on Monty Python and the Holy Grail
+(maybe just a game conversion with full story linearity?)
+(possible sci fi influence?)
+
+knights:
+
+*King Arthur
+*Lancelot
+			Gawain
+*Galahad
+			Geraint
+			Gareth
+			Gaheris
+*Bedivere
+			Ector
+*Kay
+			Bors de Ganis
+			Lamorak
+			Tristan
+			Percival
+			Agravain
+			Dagonet
+
+
+other characters:
+*Black Knight
+*Roger the Shrubber
+*Tim the Enchanter
+*(can't forget Patsy)
+*bridge keeper
+
+
+
